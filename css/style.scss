@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+//Fuentes Roboto & Montserrat
+@import url('<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Roboto:ital,wght@0,900;1,400&display=swap" rel="stylesheet">');
+
+//Header
+@import 'header';
+
+//Buscador de Gifos
+@import 'findGifos';
+
+//Topic Trend Gifos
+@import 'trendGifos';
